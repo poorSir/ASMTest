@@ -1,0 +1,91 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.example.asm",
+    "module": "asm",
+    "version": "1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8",
+      "buildId": "n5wktvedajaytnvmmayklehzoy"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "asm-1.1.jar",
+          "url": "asm-1.1.jar",
+          "size": 18373,
+          "sha512": "8c96354f9d7b3b3fbbd55d34f7d6718c84cfa548ef9db6c3d04085f148095adc29c8e7bfa52e141d0b7b48fe5b8ec25233cf0cfe4cecfbd52873b12de69abe9f",
+          "sha256": "09044a1b2a5da70b2e261749f052a8fc2b23c9f02a43e6f25e2cace3cdec2cb7",
+          "sha1": "7f018e4ac0909df60314c611fa8f25f6c9cf5431",
+          "md5": "ecf975c833e0e5e26bd298e544c562b6"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.ow2.asm",
+          "module": "asm",
+          "version": {
+            "requires": "9.1"
+          }
+        },
+        {
+          "group": "com.android.tools.build",
+          "module": "gradle",
+          "version": {
+            "requires": "4.1.2"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.4.32"
+          }
+        },
+        {
+          "group": "org.codehaus.groovy",
+          "module": "groovy-all",
+          "version": {
+            "requires": "3.0.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "asm-1.1.jar",
+          "url": "asm-1.1.jar",
+          "size": 18373,
+          "sha512": "8c96354f9d7b3b3fbbd55d34f7d6718c84cfa548ef9db6c3d04085f148095adc29c8e7bfa52e141d0b7b48fe5b8ec25233cf0cfe4cecfbd52873b12de69abe9f",
+          "sha256": "09044a1b2a5da70b2e261749f052a8fc2b23c9f02a43e6f25e2cace3cdec2cb7",
+          "sha1": "7f018e4ac0909df60314c611fa8f25f6c9cf5431",
+          "md5": "ecf975c833e0e5e26bd298e544c562b6"
+        }
+      ]
+    }
+  ]
+}

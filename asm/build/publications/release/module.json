@@ -1,0 +1,84 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.example.asm",
+    "module": "asm",
+    "version": "1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8",
+      "buildId": "hlwpkhhqwbbf5c6zfyrov4vq2a"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 14,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "asm-1.0-SNAPSHOT.jar",
+          "url": "asm-1.0-SNAPSHOT.jar",
+          "size": 261,
+          "sha512": "ab89e869034adc12e72a798cf470689c248b3bc897bf2b5f0cdd025bb2b91f228a6ca98fd43195efd72dbe2370b207c41c6845091f726ebb71dfbd37e82c282e",
+          "sha256": "a221b5b6e549b5d117143846729e5f3e2bce3eb3bd5eeff83cb02da27ba8bca2",
+          "sha1": "e4d6113ac06586167cad99e8cb530a29299ef515",
+          "md5": "00b85b241e45f62daff1630122851f31"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 14,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.android.tools.build",
+          "module": "gradle",
+          "version": {
+            "requires": "4.1.2"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.4.32"
+          }
+        },
+        {
+          "group": "org.codehaus.groovy",
+          "module": "groovy-all",
+          "version": {
+            "requires": "3.0.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "asm-1.0-SNAPSHOT.jar",
+          "url": "asm-1.0-SNAPSHOT.jar",
+          "size": 261,
+          "sha512": "ab89e869034adc12e72a798cf470689c248b3bc897bf2b5f0cdd025bb2b91f228a6ca98fd43195efd72dbe2370b207c41c6845091f726ebb71dfbd37e82c282e",
+          "sha256": "a221b5b6e549b5d117143846729e5f3e2bce3eb3bd5eeff83cb02da27ba8bca2",
+          "sha1": "e4d6113ac06586167cad99e8cb530a29299ef515",
+          "md5": "00b85b241e45f62daff1630122851f31"
+        }
+      ]
+    }
+  ]
+}

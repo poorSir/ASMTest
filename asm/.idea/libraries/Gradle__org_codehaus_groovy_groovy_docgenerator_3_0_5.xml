@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.groovy:groovy-docgenerator:3.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-docgenerator/3.0.5/7f7ba0ef7a1b9fd0f5fd5550ee31bdb09d565505/groovy-docgenerator-3.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-docgenerator/3.0.5/533c25a8472bd36cef98c1e93f005e745802c22b/groovy-docgenerator-3.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

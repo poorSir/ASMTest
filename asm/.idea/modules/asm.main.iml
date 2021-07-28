@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="asm:main" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="com.example.asm" external.system.module.type="sourceSet" external.system.module.version="1.1" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/6.8/generated-gradle-jars/gradle-api-6.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/wrapper/dists/gradle-6.8-bin/1jblhjyydfkclfzx1agp92nyl/gradle-6.8/lib/groovy-all-1.3-2.5.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/wrapper/dists/gradle-6.8-bin/1jblhjyydfkclfzx1agp92nyl/gradle-6.8/lib/kotlin-stdlib-1.4.20.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/wrapper/dists/gradle-6.8-bin/1jblhjyydfkclfzx1agp92nyl/gradle-6.8/lib/kotlin-stdlib-common-1.4.20.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/wrapper/dists/gradle-6.8-bin/1jblhjyydfkclfzx1agp92nyl/gradle-6.8/lib/kotlin-stdlib-jdk7-1.4.20.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/wrapper/dists/gradle-6.8-bin/1jblhjyydfkclfzx1agp92nyl/gradle-6.8/lib/kotlin-stdlib-jdk8-1.4.20.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/wrapper/dists/gradle-6.8-bin/1jblhjyydfkclfzx1agp92nyl/gradle-6.8/lib/kotlin-reflect-1.4.20.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/wrapper/dists/gradle-6.8-bin/1jblhjyydfkclfzx1agp92nyl/gradle-6.8/lib/gradle-installation-beacon-6.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: com.android.tools.build:gradle:4.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm:9.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.4.32" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.build:builder:4.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.build.jetifier:jetifier-processor:1.0.0-beta09" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-commons:7.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-util:7.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-analysis:7.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.build:aaptcompiler:4.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.lint:lint-gradle-api:27.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.build:gradle-api:4.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.databinding:databinding-compiler-common:4.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.72" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.build.jetifier:jetifier-core:1.0.0-beta09" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.build:aapt2-proto:4.1.2-6503028" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.analytics-library:crash:27.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.build:transform-api:2.0.0-deprecated-use-gradle-api" level="project" />
+    <orderEntry type="library" name="Gradle: net.sf.jopt-simple:jopt-simple:4.9" level="project" />
+    <orderEntry type="library" name="Gradle: net.sf.proguard:proguard-gradle:6.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.build:bundletool:0.14.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup:javapoet:1.10.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.protobuf:protobuf-java-util:3.10.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.crypto.tink:tink:1.3.0-rc2" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.protobuf:protobuf-java:3.10.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.test.platform:core-proto:0.0.2-dev" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.32" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-ant:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-astbuilder:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-cli-picocli:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-console:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-datetime:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-groovydoc:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-jmx:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-json:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-jsr223:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-macro:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-nio:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-servlet:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-sql:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-swing:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-templates:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-test:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-test-junit5:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-testng:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-xml:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-docgenerator:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-groovysh:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-tree:7.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.build:manifest-merger:27.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools:sdk-common:27.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.analytics-library:tracker:27.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools:sdklib:27.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.build:builder-test-api:4.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.ddms:ddmlib:27.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.analytics-library:protos:27.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.build:builder-model:4.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android:signflinger:4.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android:zipflinger:4.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools:common:27.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.build:apkzlib:4.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.build:apksig:4.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup:javawriter:2.5.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.bouncycastle:bcpkix-jdk15on:1.56" level="project" />
+    <orderEntry type="library" name="Gradle: org.bouncycastle:bcprov-jdk15on:1.56" level="project" />
+    <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Gradle: it.unimi.dsi:fastutil:7.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.googlecode.json-simple:json-simple:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jdom:jdom2:2.0.6" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.layoutlib:layoutlib-api:27.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:28.1-jre" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.lint:lint-model:27.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.3.72" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools:annotations:27.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.databinding:databinding-common:4.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.databinding:baseLibrary:4.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.antlr:antlr4:4.5.3" level="project" />
+    <orderEntry type="library" name="Gradle: commons-io:commons-io:2.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.googlecode.juniversalchardet:juniversalchardet:1.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.glassfish.jaxb:jaxb-runtime:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.72" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpmime:4.5.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.10" level="project" />
+    <orderEntry type="library" name="Gradle: net.sf.proguard:proguard-base:6.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.errorprone:error_prone_annotations:2.3.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.json:json:20180813" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.ant:ant:1.10.8" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.javaparser:javaparser-core:3.16.1" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.13" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.6.2" level="project" />
+    <orderEntry type="library" name="Gradle: net.sf.kxml:kxml2:2.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools.analytics-library:shared:27.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.trove4j:trove4j:20160824" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools:repository:27.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools:dvlib:27.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-compress:1.12" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:failureaccess:1.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" level="project" />
+    <orderEntry type="library" name="Gradle: org.checkerframework:checker-qual:2.8.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.j2objc:j2objc-annotations:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.mojo:animal-sniffer-annotations:1.18" level="project" />
+    <orderEntry type="library" name="Gradle: javax.xml.bind:jaxb-api:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.glassfish.jaxb:txw2:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.sun.istack:istack-commons-runtime:3.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.jvnet.staxex:stax-ex:1.8" level="project" />
+    <orderEntry type="library" name="Gradle: com.sun.xml.fastinfoset:FastInfoset:1.2.15" level="project" />
+    <orderEntry type="library" name="Gradle: javax.activation:javax.activation-api:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.opentest4j:opentest4j:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.jimfs:jimfs:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.sun.activation:javax.activation:1.2.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.tensorflow:tensorflow-lite-metadata:0.1.0-rc1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.flatbuffers:flatbuffers-java:1.12.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.auto.value:auto-value-annotations:1.6.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.ant:ant-junit:1.10.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.ant:ant-launcher:1.10.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.ant:ant-antlr:1.10.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: info.picocli:picocli:4.4.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: jline:jline:2.14.6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.thoughtworks.qdox:qdox:1.12.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-launcher:1.6.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.6.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.testng:testng:7.1.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-engine:1.6.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-commons:1.6.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.inject:guice:no_aop:4.1.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.beust:jcommander:1.72" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: aopalliance:aopalliance:1.0" level="project" />
+  </component>
+</module>

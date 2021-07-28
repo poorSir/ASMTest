@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.groovy:groovy-astbuilder:3.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-astbuilder/3.0.5/ab712931e02cb8876d9e39567283a43583ddef20/groovy-astbuilder-3.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-astbuilder/3.0.5/2c8a455bc3c03e7264e2f44babc5aa528ad7f613/groovy-astbuilder-3.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
